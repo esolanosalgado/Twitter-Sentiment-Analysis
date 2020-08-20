@@ -1,6 +1,6 @@
 # Twitter-Sentiment-Analysis
 
-The following repo contains all of the files used to perform sentiment analysis on
+The following repo contains all of the files (code and training files) used to perform sentiment analysis on
 Tweets based on the 3 following categories:
 
 * Person: Dr. Bonnie Henry (@DrBonnieHenry)
